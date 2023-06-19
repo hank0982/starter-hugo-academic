@@ -1,5 +1,5 @@
 ---
-title: 'Co-Designing for a Hybrid Workplace Experience in Software Development'
+title: "Co-Designing for a Hybrid Workplace Experience in Software Development"
 abstract: "To achieve productive engineering practice, collaborative product innovation, and effective mentorship in hybrid work, we introduce a workshop approach on co-designing for a hybrid workplace experience and provide recommendations for continuously improving collaborative software development at scale."
 slides: ""
 url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994043"
