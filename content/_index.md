@@ -106,7 +106,7 @@ sections:
     content:
       title: Publications
       text: |-
-        Check my [Google Scholar](https://scholar.google.com/citations?user=pOtvIJwAAAAJ) as well!
+        Check my [Google Scholar](https://scholar.google.com/citations?user=pOtvIJwAAAAJ) as well! All publications can be found [here](./publication/)
       filters:
         folders:
           - publication
@@ -198,11 +198,11 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  # - block: tag_cloud
-  #   content:
-  #     title: Topics
-  #   design:
-  #     columns: '2'
+  - block: tag_cloud
+    content:
+      title: Topics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:

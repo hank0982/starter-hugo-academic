@@ -21,7 +21,6 @@ url_project: ""
 publication_short: HICSS
 # url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 # url_video: https://youtube.com
-isbn: 978-0-9981331-6-4
 featured: false
 tags:
   - Future of Work
