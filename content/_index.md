@@ -104,16 +104,16 @@ sections:
   - block: collection
     id: collection
     content:
-      title: Publications
+      title: [Publications](./publication/)
       text: |-
-        All publications could be found [here](./publication/)
+        Check my [Google Scholar](https://scholar.google.com/citations?user=pOtvIJwAAAAJ) as well!
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
       columns: '2'
-      view: citation
+      view: list
   # - block: collection
   #   id: posts
   #   content:
@@ -198,11 +198,11 @@ sections:
   #   design:
   #     columns: '2'
   #     view: compact
-  - block: tag_cloud
-    content:
-      title: Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Topics
+  #   design:
+  #     columns: '2'
   - block: contact
     id: contact
     content:
