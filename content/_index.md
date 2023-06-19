@@ -104,7 +104,7 @@ sections:
   - block: collection
     id: collection
     content:
-      title: [Publications](./publication/)
+      title: Publications
       text: |-
         Check my [Google Scholar](https://scholar.google.com/citations?user=pOtvIJwAAAAJ) as well!
       filters:
