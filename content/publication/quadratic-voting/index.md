@@ -1,4 +1,5 @@
 ---
+title: '" I can show what I really like." Eliciting Preferences via Quadratic Voting'
 abstract: "Surveys are a common instrument to gauge self-reported opinions from
   the crowd for scholars in the CSCW community, the social sciences, and many
   other research areas. Researchers often use surveys to prioritize a subset of
@@ -25,7 +26,7 @@ abstract: "Surveys are a common instrument to gauge self-reported opinions from
   surveying methodology in their studies and encourage decision-makers from
   other communities to consider QV as a promising alternative."
 slides: ""
-url_pdf: ""
+url_pdf: "http://sundaram.cs.illinois.edu/pubs/2021/2021cheng_qv.pdf"
 publication_types:
   - "1"
 authors:
@@ -39,12 +40,11 @@ author_notes:
   - Equal contribution
 publication: Proceedings of the ACM on Human-Computer Interaction Volume 5 Issue CSCW1
 summary: ""
-url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: ""
 url_project: ""
 publication_short: CSCW
-url_source: https://github.com/wowchemy/wowchemy-hugo-themes
-url_video: https://youtube.com
-title: '" I can show what I really like." Eliciting Preferences via Quadratic Voting'
+# url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_video: https://youtube.com
 doi: 10.1145/3449281
 featured: false
 tags:
@@ -53,14 +53,14 @@ tags:
 categories:
   - HCI
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-date: 2013-07-01T00:00:00Z
+# image:
+#   caption: ""
+#   focal_point: ""
+#   preview_only: false
+date: 2021-04-22T00:00:00Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2021-04-22T00:00:00Z
 url_poster: ""
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 Check the paper at [ACM](https://dl.acm.org/doi/10.1145/3449281).
