@@ -102,6 +102,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: collection
+    id: collection
     content:
       title: [Publications](./publication/)
       # text: ""
