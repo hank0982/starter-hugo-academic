@@ -104,12 +104,13 @@ sections:
   - block: collection
     id: collection
     content:
-      title: [Publications](./publication/)
-      # text: ""
+      title: Publications
+      text: |-
+        All publications could be found [here](./publication/)
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
