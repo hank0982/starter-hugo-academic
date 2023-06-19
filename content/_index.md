@@ -104,7 +104,7 @@ sections:
   - block: collection
     content:
       title: [Publications](./publication/)
-      text:
+      # text: ""
       filters:
         folders:
           - publication
