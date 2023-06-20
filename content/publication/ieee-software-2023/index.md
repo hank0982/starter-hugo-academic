@@ -31,7 +31,7 @@ categories:
   - Software Engineering
   - HCI
 projects: 
-  - Future of Work
+  - future-of-work
 # image:
 #   caption: ""
 #   focal_point: ""
