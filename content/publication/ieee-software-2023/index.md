@@ -30,7 +30,8 @@ tags:
 categories:
   - Software Engineering
   - HCI
-projects: ["Future of Work"]
+projects: 
+  - Future of Work
 # image:
 #   caption: ""
 #   focal_point: ""
