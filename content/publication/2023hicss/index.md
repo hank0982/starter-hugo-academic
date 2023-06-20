@@ -32,7 +32,7 @@ tags:
 categories:
   - Software Engineering
   - HCI
-projects: []
+projects: [Future of Work]
 # image:
 #   caption: ""
 #   focal_point: ""
