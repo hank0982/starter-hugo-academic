@@ -6,7 +6,7 @@ url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994043"
 publication_types:
   - "1"
 authors:
-  - Zhendong Wang
+  - zhendong-wang
   - admin
   - Kayla Fathi
   - Tobias Schimmer

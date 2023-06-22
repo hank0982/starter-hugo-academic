@@ -10,7 +10,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - Zhendong Wang
+  - zhendong-wang
   - Tobias Schimmer
   - Rafael Prikladnicki
   - David Redmiles
