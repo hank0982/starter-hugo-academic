@@ -28,6 +28,6 @@ slides: ""
 ---
 Writing a paper is tough, and sourcing quality references can be equally challenging. However, I'm dedicated to compiling and organizing the literature I find useful, delightful, and even mind-blowing. Let me know if there is any research paper you found worth-reading, or submit a pull request!
 
-{{< cite page="/publication/2023hicss" view="citation" >}}
+{{< cite page="../../publication/2023hicss" view="citation" >}}
 
 
