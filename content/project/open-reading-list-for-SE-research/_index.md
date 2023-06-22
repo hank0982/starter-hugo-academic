@@ -1,7 +1,6 @@
 ---
 title: Reading List 
-summary: >
-  "Writing a paper is tough, and sourcing quality references can be equally challenging. However, I'm dedicated to compiling and organizing the literature I find useful, delightful, and even mind-blowing. Let me know if there is any research paper you found worth-reading, or submit a pull request"
+summary: Yi-Hung Chou's reading list for Software Engineering, HCI, Human-AI Interaction
 tags:
   - Reading List
 date: '2023-06-22T00:00:00Z'
@@ -27,4 +26,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+Writing a paper is tough, and sourcing quality references can be equally challenging. However, I'm dedicated to compiling and organizing the literature I find useful, delightful, and even mind-blowing. Let me know if there is any research paper you found worth-reading, or submit a pull request
