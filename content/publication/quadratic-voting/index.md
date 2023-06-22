@@ -33,7 +33,7 @@ publication_types:
 authors:
   - Ti-Chung Cheng
   - Tiffany Wenting Li
-  - Yi-Hung Chou
+  - admin
   - Karrie Karahalios
   - Hari Sundaram
 author_notes:

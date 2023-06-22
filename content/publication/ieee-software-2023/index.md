@@ -7,7 +7,7 @@ publication_types:
   - "1"
 authors:
   - Zhendong Wang
-  - Yi-Hung Chou
+  - admin
   - Kayla Fathi
   - Tobias Schimmer
   - Peter Colligan

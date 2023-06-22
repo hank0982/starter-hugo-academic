@@ -9,7 +9,7 @@ url_pdf: >
 publication_types:
   - "1"
 authors:
-  - Yi-Hung Chou
+  - admin
   - Zhendong Wang
   - Tobias Schimmer
   - Rafael Prikladnicki
