@@ -42,13 +42,10 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Chou
 highlight_name: true
-first_name: Alice
+first_name: Yi-Hung
 email: yihungc1@uci.edu
 ---
-Yi-Hung Chou is an incoming first-year Ph.D. student at UC Irvine. He received B.Sc Computer Science with [ELITE stream](https://www.erg.cuhk.edu.hk/erg/Elite) from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), and he is expected to earn his Master of Science in Software Engineering this summer. Throughout his academic journey, he has been fortunate to have the guidance and mentorship of exceptional professors, including Prof. David Redmiles, Prof. Rafael Prikladnicki, Prof. Tobias Schimmer, and Prof. Steven Dow.
-
-
-
+Yi-Hung Chou is an incoming first-year Ph.D. student at UC Irvine. He received B.Sc Computer Science with [ELITE stream](https://www.erg.cuhk.edu.hk/erg/Elite) from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), and he is expected to earn his Master of Science in Software Engineering this summer. Throughout his academic journey, he has been fortunate to have the guidance and mentorship of exceptional professors, including [Prof. David Redmiles](https://redmiles.ics.uci.edu/), [Prof. Rafael Prikladnicki](https://www.inf.pucrs.br/rafael/), [Prof. Tobias Schimmer](https://www.linkedin.com/in/tobiashildenbrand/), and [Prof. Steven Dow](https://spdow.ucsd.edu/). His mind is delightfully contaminated by [Ti-Chung Cheng](https://tichung.com/about/) and [Dr. Grace Yen](https://gracetfg2.github.io/), who lured Yi-Hung away from his lucrative and routine software engineer life into the wild, unpredictable world of academia.
 

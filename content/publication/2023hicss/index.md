@@ -11,9 +11,9 @@ publication_types:
 authors:
   - admin
   - zhendong-wang
-  - Tobias Schimmer
-  - Rafael Prikladnicki
-  - David Redmiles
+  - tobias-schimmer
+  - rafael-prikladnicki
+  - david-redmiles
 author_notes:
   - Equal contribution
   - Equal contribution

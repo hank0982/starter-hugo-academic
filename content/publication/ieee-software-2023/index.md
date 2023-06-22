@@ -9,10 +9,10 @@ authors:
   - zhendong-wang
   - admin
   - Kayla Fathi
-  - Tobias Schimmer
+  - tobias-schimmer
   - Peter Colligan
-  - David Redmiles
-  - Rafael Prikladnicki
+  - david-redmiles
+  - rafael-prikladnicki
 author_notes:
 
 publication: IEEE Software, Volume 40, Issue 2, March-April 2023

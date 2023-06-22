@@ -34,8 +34,8 @@ authors:
   - Ti-Chung Cheng
   - Tiffany Wenting Li
   - admin
-  - Karrie Karahalios
-  - Hari Sundaram
+  - Prof. Karrie Karahalios
+  - Prof. Hari Sundaram
 author_notes:
   - Equal contribution
   - Equal contribution

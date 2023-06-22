@@ -1,5 +1,5 @@
 ---
-title: Dr. Zhendong Wang
+title: Prof. Tobias Schimmer
 role: 
 avatar_filename: avatar.jpg
 bio: ""
@@ -8,23 +8,23 @@ interests:
 social:
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=b1v9zjYAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.de/citations?user=us4CyYMAAAAJ&hl=en
     display:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/zhendow/
+    link: https://www.linkedin.com/in/tobiashildenbrand/
 
 organizations:
-  - name: SAP & University of California, Irvine
-    url: https://www.uci.edu/
+  - name: SAP & University of Mannheim, Germany
+    url: https://www.sap.com
 
 superuser: false
 status:
   icon: ☕️
-last_name: Wang
+last_name: Schimmer
 highlight_name: true
-first_name: Zhendong
+first_name: Tobias
 email: 
 ---
 
