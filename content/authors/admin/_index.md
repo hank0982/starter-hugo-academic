@@ -2,7 +2,7 @@
 title: Yi-Hung Chou
 role: First-year Ph.D. student @ UC Irvine
 avatar_filename: avatar.jpg
-bio: "I build tools to solve challenges found in empirical study"
+bio: "Help developers to collaborate, code, and have fun!"
 interests:
   - Human-Computer Interaction
   - Software Engineering
