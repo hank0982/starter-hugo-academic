@@ -1,6 +1,6 @@
 ---
 title: Prof. Tobias Schimmer
-role: 
+role: Chief Development Expert at SAP & Honorary Professor at University of Mannheim
 avatar_filename: avatar.jpg
 bio: ""
 interests:
