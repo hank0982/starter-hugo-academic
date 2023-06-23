@@ -360,7 +360,7 @@
 </script>
 
 <script>
-    $('.cite-intext').click(function (e) {
+    $('.cite-intext-button').click(function (e) {
         const currentNode = this;
         e.preventDefault();
         let filename = String($(this).attr('data-citename')).trim();
@@ -380,7 +380,7 @@
                     let msg = 'Error: No Citation Found';
                     $('#modal-error').html(msg);
                 } else {
-                    currentNode.text = citation[0].entryTags.title;
+                    $(currentNode).parent().find('cite-intext-text').text(citation[0].entryTags.title);
                 }
             }
         })

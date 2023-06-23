@@ -1,6 +1,9 @@
-
-<a href="#"
-class="btn btn-outline-primary btn-sm cite-intext"
-data-citename="{{ .Get "filename" }}"
-data-citekey="{{ .Get "citekey" }}"
->Cite</a>
+<div class="cite-intext">
+    <a href="#"
+        class="btn btn-outline-primary btn-sm cite-intext-button"
+        data-citename="{{ .Get "filename" }}"
+        data-citekey="{{ .Get "citekey" }}"
+        >Cite</a>
+    
+    <p class="cite-intext-text"></p>
+</div>
