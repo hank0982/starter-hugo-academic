@@ -362,8 +362,8 @@
 <script>
     $('.cite-intext').click(function (e) {
         e.preventDefault();
-        let filename = $(this).attr('data-citename').trim();
-        if (filename === 0) {
+        let filename = String($(this).attr('data-citename')).trim();
+        if (filename.length === 0) {
             filename = 'cite.bib'
         }
         const citekey = $(this).attr('data-citekey');
