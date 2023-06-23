@@ -375,7 +375,13 @@
                 let msg = 'Error: ';
                 $('#modal-error').html(msg + xhr.status + ' ' + xhr.statusText);
             } else {
-                console.log(bibtexParse.toJSON(data))
+                const citation = bibtexParse.toJSON(data).filter(citation => citation.citekey === citekey);
+                if (citation.length === 0) {
+                    let msg = 'Error: No Citation Found';
+                    $('#modal-error').html(msg);
+                } else {
+                    console.log(citation[0]);
+                }
             }
         })
         $('.js-download-cite').hide();
