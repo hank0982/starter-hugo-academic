@@ -27,7 +27,7 @@ highlight_name: true
 first_name: Redmiles
 email: 
 ---
-
+David Redmiles is a professor in the Department of Informatics, Donald Bren School of Information and Computer Sci- ences, University of California, Irvine, Irvine, CA 92697 USA. His research integrates the areas of software engineering, human–computer interaction, and computer-supported cooperative work. Redmiles received his Ph.D. in computer science from the University of Colorado, Boulder. He is a member of the Association for Computing Machinery and IEEE Computer Society.
 
 
 

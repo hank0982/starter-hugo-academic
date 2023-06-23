@@ -27,8 +27,5 @@ highlight_name: true
 first_name: Zhendong
 email: 
 ---
-
-
-
-
+Zhendong Wang received his Ph.D. in software engineering at the University of California, Irvine, Irvine, CA 92697 USA. His research interests include leveraging and supporting developer expertise in distributed software development. Wang received his M.S. in software engineering from the University of California, Irvine.
 
