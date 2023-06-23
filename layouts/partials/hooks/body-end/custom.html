@@ -381,7 +381,7 @@
                     $('#modal-error').html(msg);
                 } else {
                     currentNode.text = citation[0].entryTags.title;
-                    document.querySelector('#modal .modal-body code').innerHTML = bibtexParse.toBibtex(citation[0], false);
+                    document.querySelector('#modal .modal-body code').innerHTML = bibtexParse.toBibtex([citation[0]], false);
                 }
             }
         })
