@@ -361,6 +361,7 @@
 
 <script>
     $('.cite-intext').click(function (e) {
+        const currentNode = this;
         e.preventDefault();
         let filename = String($(this).attr('data-citename')).trim();
         if (filename.length === 0) {
@@ -368,19 +369,18 @@
         }
         const citekey = $(this).attr('data-citekey');
         const modal = $('#modal');
-        console.log(filename);
-        console.log(citekey);
+
         $.get(filename, function (data, status) {
             if (status == 'error') {
                 let msg = 'Error: ';
                 $('#modal-error').html(msg + xhr.status + ' ' + xhr.statusText);
             } else {
-                const citation = bibtexParse.toJSON(data).filter(citation => citation.citekey === citekey);
+                const citation = bibtexParse.toJSON(data).filter(citation => citation.citationKey === citekey);
                 if (citation.length === 0) {
                     let msg = 'Error: No Citation Found';
                     $('#modal-error').html(msg);
                 } else {
-                    console.log(citation[0]);
+                    currentNode.text = citation[0].entryTags.title;
                 }
             }
         })
