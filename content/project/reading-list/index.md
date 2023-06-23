@@ -29,4 +29,4 @@ slides: ""
 ---
 Writing a paper is tough, and sourcing quality references can be equally challenging. However, I'm dedicated to compiling and organizing the literature I find useful, delightful, and even mind-blowing. Let me know if there is any research paper you found worth-reading, or submit a pull request!
 
-{{< citation paperlink="./publications/conner_getting_2012.bib" papertitle="Getting started: Launching a study in daily life." >}}
+{{< citation citelink="./publications/conner_getting_2012.bib" papertitle="Getting started: Launching a study in daily life." >}}
