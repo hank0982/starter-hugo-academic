@@ -362,8 +362,11 @@
 <script>
     $('.cite-intext').click(function (e) {
         e.preventDefault();
-        const filename = $(this).attr('data-filename') ?? 'cite.bib';
-        const citekey = $(this).attr('data-cite-key');
+        let filename = $(this).attr('data-filename').trim();
+        if (filename === 0) {
+            filename = 'cite.bib'
+        }
+        const citekey = $(this).attr('data-citekey');
         const modal = $('#modal');
         console.log(filename);
         console.log(citekey);
