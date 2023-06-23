@@ -17,7 +17,7 @@ author_notes:
 
 publication: IEEE Software, Volume 40, Issue 2, March-April 2023
 summary: ""
-url_dataset: ""
+url_dataset: "https://github.com/co-design-hybrid/co-design-hybrid"
 url_project: ""
 publication_short: IEEE Software
 # url_source: https://github.com/wowchemy/wowchemy-hugo-themes

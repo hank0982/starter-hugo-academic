@@ -11,6 +11,18 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    content:
+      title: News
+      text: >
+        - [Jun. 26, 2023] Intern at SAP, Newport Beach with {{% mention "tobias-schimmer" %}} 
+        - [Jun. 23, 2023] Update my new personal website!
+        - [Jun. 17, 2023] Congrats! Zhendong is officially {{% mention "zhendong-wang" %}}!
+        - [Jan. 3 - 6, 2023] Enjoy Maui! at [HICSS](https://hicss.hawaii.edu/)
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
   # - block: features
   #   content:
   #     title: Skills
