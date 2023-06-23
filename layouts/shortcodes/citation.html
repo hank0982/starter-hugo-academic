@@ -1,8 +1,11 @@
 <script>
+    function citeClick() {
         console.log(bibtexParse.toJSON('@article{sample1,title={sample title}}'));
+    }
 </script>
 <p>
-        <a href="#" class="btn btn-outline-primary btn-sm js-cite-modal"
-        data-filename="{{ .Get "citelink" }}">Cite</a>
-        {{ .Get "papertitle"}}
+    <a href="#" onclick="citeClick()"
+    class="btn btn-outline-primary btn-sm js-cite-modal"
+    data-filename="{{ .Get "citelink" }}">Cite</a>
+    {{ .Get "papertitle"}}
 </p>
