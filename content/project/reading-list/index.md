@@ -27,7 +27,16 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Writing a paper is tough, and sourcing quality references can be equally challenging. However, I'm dedicated to compiling and organizing the literature I find useful, delightful, and even mind-blowing. Let me know if there is any research paper you found worth-reading, or submit a pull request!
+Writing a paper is tough, and sourcing quality references can be equally challenging. I'm trying to organize the literature I find useful and delightful. Let me know by email if there is any research paper you found worth-reading, or submit a pull request!
+
 # Research Methods
 ## Diary Study
-1. {{< citation citekey="conner_getting_2012" >}} Getting started: {Launching} a study in daily life.
+- [Diary Studies: Understanding Long-Term User Behavior and Experiences](https://www.nngroup.com/articles/diary-studies/)
+- Rieman, J. (1993). The diary study: a workplace-oriented research tool to guide laboratory efforts. Proceedings of the INTERACT '93 and CHI '93 conference on Human factors in computing systems, Amsterdam, The Netherlands. {{< citation citekey="rieman_diary_1993" >}} 
+- Czerwinski, Mary, Eric Horvitz, and Susan Wilhite. "A diary study of task switching and interruptions." Proceedings of the SIGCHI conference on Human factors in computing systems. 2004. {{<citation citekey="czerwinski_diary_2004">}}
+
+# AI+Software Engineering
+## Copilot
+- Liang, Jenny T., Chenyang Yang, and Brad A. Myers. "Understanding the Usability of AI Programming Assistants." arXiv preprint arXiv:2303.17125 (2023). {{<citation citekey="liang_understanding_2023">}}
+- Vaithilingam, Priyan, Tianyi Zhang, and Elena L. Glassman. "Expectation vs. experience: Evaluating the usability of code generation tools powered by large language models." Chi conference on human factors in computing systems extended abstracts. 2022. {{<citation citekey="vaithilingam2022expectation">}}
+- Bird, Christian, et al. "Taking Flight with Copilot: Early insights and opportunities of AI-powered pair-programming tools." Queue 20.6 (2022): 35-57. {{<citation citekey="bird2022taking">}}
