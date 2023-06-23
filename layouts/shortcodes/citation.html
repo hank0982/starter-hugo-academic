@@ -1,6 +1,20 @@
 <script>
     function citeClick() {
-        console.log(bibtexParse.toJSON('@article{sample1,title={sample title}}'));
+        e.preventDefault();
+        const filename = $(this).attr('data-filename');
+        const citekey = $(this).attr('data-cite-key');
+        const modal = $('#modal');
+        const client = new XMLHttpRequest();
+        $.get('cite.bib', function(data, status) {
+            if (status == 'error') {
+                let msg = 'Error: ';
+                $('#modal-error').html(msg + xhr.status + ' ' + xhr.statusText);
+            } else {
+                console.log(bibtexParse.toJSON(data))
+            }
+        })
+        $('.js-download-cite').hide();
+        modal.modal('show');
     }
 </script>
 <p>
