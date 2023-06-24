@@ -8,6 +8,12 @@ interests:
   - 軟體工程
   - 人工智慧
 social:
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-8537-0200
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Yi-Hung-Chou
   - icon: envelope
     icon_pack: fas
     link: /#contact
