@@ -4,10 +4,9 @@ role: Professor at Pontifícia Universidade Católica do Rio Grande do Sul
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-
 social:
-  - icon: person
-    icon_pack: fab
+  - icon: desktop
+    icon_pack: fas
     link: https://www.inf.pucrs.br/rafael/
   - icon: google-scholar
     icon_pack: ai

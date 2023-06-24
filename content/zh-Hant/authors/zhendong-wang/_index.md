@@ -6,6 +6,9 @@ bio: ""
 interests:
 
 social:
+  - icon: desktop
+    icon_pack: fas
+    link: https://zhendow.github.io/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=b1v9zjYAAAAJ&hl=en&oi=ao
