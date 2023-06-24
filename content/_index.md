@@ -15,13 +15,13 @@ sections:
     content:
       title: News
       text: >
-        - [Jun. 26, 2023] Intern at SAP, Newport Beach with {{% mention "tobias-schimmer" %}}
+        - 2023/06/26 -- I am excited to share that I will be interning with the SAP, Newport Beach this summer with {{% mention "tobias-schimmer" %}}!
 
-        - [Jun. 23, 2023] Update my new personal website!
+        - 2023/06/23 -- Update my personal website
 
-        - [Jun. 17, 2023] Congrats! Zhendong is officially {{% mention "zhendong-wang" %}}!
+        - 2023/06/17 Congrats! Zhendong is officially {{% mention "zhendong-wang" %}}!
 
-        - [Jan. 3 - 6, 2023] Enjoy Maui! at [HICSS](https://hicss.hawaii.edu/)
+        - 2023/01/06 Enjoy Maui! at [HICSS](https://hicss.hawaii.edu/)
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
