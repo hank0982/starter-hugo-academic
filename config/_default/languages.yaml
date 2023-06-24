@@ -9,9 +9,9 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
- languageCode: zh
- contentDir: content/zh
+zh-Hant:
+ languageCode: zh-Hant
+ contentDir: content/zh-Hant
  title: 周益宏
  params:
    description: 周益宏
