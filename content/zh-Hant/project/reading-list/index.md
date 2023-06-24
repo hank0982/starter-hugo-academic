@@ -27,8 +27,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Writing a paper is tough, and sourcing quality references can be equally challenging. I'm trying to organize the literature I find useful and delightful. Let me know by email if there is any research paper you found worth-reading, or submit a pull request!
-
+寫 Paper 很難，但找好的 references 更累，我會在這裏慢慢加一些我自己讀了覺得很有用，很有趣的文章
 # Research Methods
 ## Diary Study
 - [Diary Studies: Understanding Long-Term User Behavior and Experiences](https://www.nngroup.com/articles/diary-studies/)

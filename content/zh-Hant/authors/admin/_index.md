@@ -2,11 +2,11 @@
 title: Yi-Hung Chou
 role: First-year Ph.D. student @ UC Irvine
 avatar_filename: avatar.jpg
-bio: "Help developers to collaborate, code, and have fun!"
+bio: "軟體工程師也是人! 幫助工程師協作，寫 code"
 interests:
-  - Human-Computer Interaction
-  - Software Engineering
-  - Artificial Intelligent
+  - 人機互動
+  - 軟體工程
+  - 人工智慧
 social:
   - icon: envelope
     icon_pack: fas
@@ -50,7 +50,7 @@ email: yihungc1@uci.edu
 
 > Help developers to collaborate, code, and have fun.
 
-Yi-Hung Chou is an incoming first-year Ph.D. student at UC Irvine, where he will be advised by [Prof. James A. Jones](https://jamesajones.com/). He received B.Sc Computer Science with [ELITE stream](https://www.erg.cuhk.edu.hk/erg/Elite) from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), and he is expected to earn his Master of Science in Software Engineering at UC Irvine this summer. Throughout his academic journey, he has been fortunate to have the guidance and mentorship of exceptional professors, including [Prof. David Redmiles](https://redmiles.ics.uci.edu/), [Prof. Rafael Prikladnicki](https://www.inf.pucrs.br/rafael/), [Prof. Tobias Schimmer](https://www.linkedin.com/in/tobiashildenbrand/), and [Prof. Steven Dow](https://spdow.ucsd.edu/). His mind is delightfully contaminated by [Ti-Chung Cheng](https://tichung.com/about/) and [Dr. Grace Yen](https://gracetfg2.github.io/), who lured Yi-Hung away from his lucrative and routine software engineer life into the wild, unpredictable world of academia.
+Hello! 歡迎來到我的個人網站，我是周益宏，加州大學爾灣分校的博士一年級生。我很榮幸的給 [Prof. James A. Jones](https://jamesajones.com/) 指導。我曾是香港中文大學電腦科學 Elite Stream 的學士，並即將在今年暑假取得 UCI 軟體工程碩士學位。在學術生涯裡很感謝 [Prof. David Redmiles](https://redmiles.ics.uci.edu/), [Prof. Rafael Prikladnicki](https://www.inf.pucrs.br/rafael/), [Prof. Tobias Schimmer](https://www.linkedin.com/in/tobiashildenbrand/), 以及 [Prof. Steven Dow](https://spdow.ucsd.edu/) 的幫助。要不是 [Ti-Chung Cheng](https://tichung.com/about/) and [Dr. Grace Yen](https://gracetfg2.github.io/) 給我看一些奇怪但很有趣的 paper，我也不會踏入學術的坑。
 
-If you are an undergraduate student at UCI interested in my research, please send me an email or [book an appointment](https://calendly.com/yihungc1/30min)!
+如果你對我的研究有興趣，歡迎寄信給我或是用 [calendly](https://calendly.com/yihungc1/30min) 找我聊天 (如果我有空的話ㄏㄏ)
 

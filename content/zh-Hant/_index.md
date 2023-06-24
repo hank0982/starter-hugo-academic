@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: 關於我
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
@@ -16,13 +16,13 @@ sections:
     content:
       title: News
       text: >
-        - 2023/06/26 -- I am excited to share that I will be interning with the SAP, Newport Beach this summer with {{% mention "tobias-schimmer" %}}!
+        - 2023/06/26 --  這個暑假很開心可以繼續跟 {{% mention "tobias-schimmer" %}}˙ 在 SAP Newport Beach 做研究。如果你在南加州的話，歡迎找我喝咖啡。
 
-        - 2023/06/23 -- Update my personal website
+        - 2023/06/23 -- 新的個人網站上線拉~~
 
-        - 2023/06/17 Congrats! Zhendong is officially {{% mention "zhendong-wang" %}}!
+        - 2023/06/17 恭喜 Zhendong 以後要寫 email 是不是要寫 Dear {{% mention "zhendong-wang" %}} 了!
 
-        - 2023/01/06 Enjoy Maui! at [HICSS](https://hicss.hawaii.edu/)
+        - 2023/01/06 在夏威夷島開 [HICSS](https://hicss.hawaii.edu/)
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -33,7 +33,7 @@ sections:
     content:
       title: Publications
       text: |-
-        Check my [Google Scholar](https://scholar.google.com/citations?user=pOtvIJwAAAAJ) as well! All publications can be found [here](./publication/)
+        可以看看我的 [Google Scholar](https://scholar.google.com/citations?user=pOtvIJwAAAAJ)
       filters:
         folders:
           - publication
@@ -76,7 +76,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can find me at random coffee shops near UC Irvine. My current favorites are Stereoscope Coffee and Play Coffee! Feel free to ask me anything!
+        你可能會在爾灣附近的咖啡廳找到我，尤其是 Stereoscope Coffee 或是 Play Coffee! 歡迎推我咖啡廳的坑!
       # Contact (add or remove contact options as necessary)
       email: yihungc1@uci.edu
       # phone: 888 888 88 88
