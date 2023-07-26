@@ -18,7 +18,9 @@ If you are interested in a summer research internship with our lab, please apply
 
 ## Facilitating Human-AI collaboration in software engineering / software engineering education
 The primary objective of this research is to  examine the influence of emerging AI tools - Co-pilot, Midjourney, and ChatGPT - on the software development lifecycle. By conducting an in-depth analysis of their current application and identifying potential challenges, we aim to glean valuable insights. Ultimately, our vision is to design tools that facilitate the efficient utilization of these AI technologies in software engineering, benefitting practitioners, students, and instructors alike.
+
 Research skills: Qualitative & qauntitative research methods
+
 Technical skills: R or Python for qauntitative analysis
 Reading: Diary Study and Copilot in [reading list](https://yihungchou.com/en/project/reading-list/)
 
@@ -28,12 +30,14 @@ Reading: Diary Study and Copilot in [reading list](https://yihungchou.com/en/pro
 Reading and debugging code written by others (or by oneself from a distant past) can be frustrating. I would like to understand what strategies developers use to debug complex systems? Why our current debuggers failed to support them?  Further, how can we design tools to help them?
 
 Research and technical skills: Unknown (we will figure it out)
+
 Reading: [Debugging book](https://www.debuggingbook.org/), [The dichotomy of debugging behavior](https://dl.acm.org/doi/pdf/10.1145/3180155.3180175)
 
 ## Writing testing should be easy and fun
 Testing is fun! OK nevermind. Testing is boring, and writing unit tests is a big no-no for every single developer. How can we get rid of the boring parts: i.e., setting up the testing environment, writing mock objects, and focus on the most important parts, i.e., verifying the program outcomes? How can we make the testing process fun, easy, and intertwine it with the development process?
 
 Research and technical skills: Unknown (we will figure it out)
+
 Reading: [How Developers Engineer Test Cases: An Observational Study](https://ieeexplore.ieee.org/abstract/document/9625808?casa_token=brxbuhynl0EAAAAA:lwiOuOBIl_hQlVmZc_LcbZQJoW04b9XV2czQgPP6RyOt5dWM8fweXWRDFeoGdILgkHz8urGPPg) and [How (Much) Do Developers Test?](https://ieeexplore.ieee.org/abstract/document/7203012?casa_token=eI5OJb02WUYAAAAA:t49EyogIk7VVmllVvyih7wDtGxPg6YuZ3BBLFkBe0Lzb6e7qMGnFMOpt1atfzb73jpii1RHIjw)
 
 
