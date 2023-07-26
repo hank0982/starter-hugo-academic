@@ -22,19 +22,21 @@ The primary objective of this research is to  examine the influence of emerging 
 Research skills: Qualitative & qauntitative research methods
 
 Technical skills: R or Python for qauntitative analysis
-Reading: Diary Study and Copilot in [reading list](https://yihungchou.com/en/project/reading-list/)
 
+Reading: Diary Study and Copilot in [reading list](https://yihungchou.com/en/project/reading-list/)
 
 ## Debugging complex systems
 
-Reading and debugging code written by others (or by oneself from a distant past) can be frustrating. I would like to understand what strategies developers use to debug complex systems? Why our current debuggers failed to support them?  Further, how can we design tools to help them?
+Reading and debugging code written by others (or by oneself from a distant past) can be a frustrating task. I would like to understand the strategies developers use to debug complex systems. Why do our current debuggers fail to support them? Furthermore, how can we design tools to assist them?
+
 
 Research and technical skills: Unknown (we will figure it out)
 
 Reading: [Debugging book](https://www.debuggingbook.org/), [The dichotomy of debugging behavior](https://dl.acm.org/doi/pdf/10.1145/3180155.3180175)
 
 ## Writing testing should be easy and fun
-Testing is fun! OK nevermind. Testing is boring, and writing unit tests is a big no-no for every single developer. How can we get rid of the boring parts: i.e., setting up the testing environment, writing mock objects, and focus on the most important parts, i.e., verifying the program outcomes? How can we make the testing process fun, easy, and intertwine it with the development process?
+
+Testing is fun! Oh, wait, scratch that. Testing is often perceived as boring, and many developers dislike writing unit tests. How can we eliminate the tedious aspects, such as setting up the testing environment and writing mock objects, so that we can concentrate on the essential parts: verifying program outcomes? How can we create a testing process that is enjoyable, straightforward, and seamlessly integrated into the development process?
 
 Research and technical skills: Unknown (we will figure it out)
 
