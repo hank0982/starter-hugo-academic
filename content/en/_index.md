@@ -16,6 +16,10 @@ sections:
     content:
       title: News
       text: >
+        - 2023/10/24 -- For anyone who is interested in working with me as undergraduate researcher, please check [this post](https://yihungchou.com/en/post/undergraduate-research-opportunity/) about research opportunity. Send me an email about who you are, what is your major, what motivates you to work with me. I am open to students from any major as long as you are willing to learn either programming, specifically, ReactJS and LangChain, or to learn how to conduct user study. Looking forward to your emails!
+
+        - 2023/10/23 -- I am excited to share that I will join UIST as student volunteer this year. see you all at San Francisco!
+
         - 2023/06/26 -- I am excited to share that I will be interning with the SAP, Newport Beach this summer with {{% mention "tobias-schimmer" %}}!
 
         - 2023/06/23 -- Update my personal website
