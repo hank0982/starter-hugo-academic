@@ -94,22 +94,24 @@ Yi-Hung Chou
 ## What are these repositories?
 
 Mostly personal projects, small size, and with less than 10 contributors.
-
-<img
-  src="./distribution.png"
-  height="400"
-/>
+<div>
+  <img
+    src="distribution.png"
+    height="400"
+  />
+</div>
 
 ---
 
 ### Where do developers put their logs?
 
 Near half of them are put into callback or asynchronous functions, where the program flow might not be easily controlled.
-
-<img
-      src="./venn-diagram.png"
-      height="400"
-    />
+<div>
+  <img
+    src="venn-diagram.png"
+    height="400"
+  />
+</div>
 
 ---
 
