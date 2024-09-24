@@ -96,11 +96,11 @@ Yi-Hung Chou
 Mostly personal projects, small size, and with less than 10 contributors.
 
 <img
-      class=""
-      data-fragment-index="2"
-      src="./distribution.png"
-      height="400"
-    />
+  class=""
+  data-fragment-index="2"
+  src="./distribution.png"
+  height="400"
+/>
 
 ---
 
@@ -114,6 +114,54 @@ Near half of them are put into callback or asynchronous functions, where the pro
       src="./venn-diagram.png"
       height="400"
     />
+
+---
+
+#### What do developers put into their logs?
+
+<div class="r-stack">
+  <div class="fragment fade-out" data-fragment-index="0">
+    <p>Most of the logs contains only 1 parameter (74.2%) <p>
+    <img
+        src="./distribution_of_number_of_args.png"
+        height="400"
+      />
+  </div>
+  <div class="fragment fade-in-then-out" data-fragment-index="1">
+    <p>Most of the arguments developers put into ad-hoc logs are literals or identifiers<p>
+    <img
+      src="./distribution_of_argument_type.png"
+      height="400"
+    />
+  </div>
+  <div class="fragment fade-in-then-out" data-fragment-index="2">
+    <p>Among the literals, many of them are <br/> template strings (e.g., ======) or <br/> log locators (e.g., number or here) <p>
+    <img
+      class="fragment"
+      data-fragment-index="2"
+      src="./top_30_most_frequent_literal_argument_strings.png"
+      height="400"
+    />
+  </div>
+  <div class="fragment fade-in-then-out" data-fragment-index="3">
+      <p>When there are two arguments,<br/> most combinations involve a literal and an identifier,<br/> such as console.log("response is:", response).</p>
+      <img
+        class="fragment"
+        data-fragment-index="2"
+        src="./distribution_of_argument_type_when_two_args.png"
+        height="400"
+      />
+  </div>
+  <div class="fragment" data-fragment-index="4">
+      <p>To investigate how many of these combinations involve a string labeling the identifier, <br/> we created a pie chart to show how often the literals contain the identifiers name.</p>
+      <img
+        class="fragment"
+        data-fragment-index="2"
+        src="./log_with_two_arguments.png"
+        height="400"
+      />
+  </div>
+</div>
 
 ---
 
