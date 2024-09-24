@@ -96,8 +96,6 @@ Yi-Hung Chou
 Mostly personal projects, small size, and with less than 10 contributors.
 
 <img
-  class=""
-  data-fragment-index="2"
   src="./distribution.png"
   height="400"
 />
@@ -109,8 +107,6 @@ Mostly personal projects, small size, and with less than 10 contributors.
 Near half of them are put into callback or asynchronous functions, where the program flow might not be easily controlled.
 
 <img
-      class=""
-      data-fragment-index="2"
       src="./venn-diagram.png"
       height="400"
     />
