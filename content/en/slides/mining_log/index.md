@@ -16,8 +16,7 @@ _build:
   list: never
 ---
 
-## Uncovering the Dirt on Ad-hoc Logs
-
+## Understanding Ad-hoc Logs
 Yi-Hung Chou
 
 ---
