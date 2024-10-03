@@ -35,7 +35,7 @@ Yi-Hung Chou
   Chen & Jiang 2021, Fu et al. 2024
 </section>
 <section>
-  Most of these studies focus on understanding logs that are retained in production code and used for maintenance, while none have explored the ephemeral log statements, also known as <b>Ad-Hoc Logs</b>.
+  Most of these studies focus on understanding logs that are retained in production code and used for maintenance, while few have explored the ephemeral log statements, also known as <b>Ad-Hoc Logs</b>.
 </section>
 
 ---
