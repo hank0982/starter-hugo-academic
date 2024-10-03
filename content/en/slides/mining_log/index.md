@@ -176,5 +176,15 @@ Mostly personal projects, small size, and with less than 10 contributors.
 
 ---
 
-# Thoughts & Questions?
+Log-it (Jiang et al.) also identified similar challenges during their interviews with developers, such as difficulties in locating logs when context switching between the code editor and log viewers, as well as a lack of meaningful organization.
 
+<div>
+  <img
+    src="logit.png"
+    height="400"
+  />
+</div>
+
+---
+
+# Questions & Thoughts?
