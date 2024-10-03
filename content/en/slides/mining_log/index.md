@@ -22,33 +22,33 @@ Yi-Hung Chou
 ---
 
 <section>
-  <h3>What are the ad-hoc logs, and why should we understand them?<h3>
+  <h3>What are ad-hoc logs, and why should we understand them?<h3>
 </section>
 <section>
-  Instead of consulting debuggers first, previous research showed that developers <b>heavily relied on the print statements when debugging</b> 
+  Instead of consulting debuggers first, previous research has shown that developers **heavily rely on print statements when debugging</b> 
   
   Beller et al. 2018, Perscheid et al. 2014, and Siegmund et al. 2014
 </section>
 <section>
-  Some prior studies have extensively focused on understanding the characteristics of log statements and debugging behaviors through observational studies or mining the existing repositories.
+  Several prior studies have extensively focused on understanding the characteristics of log statements and debugging behaviors through observational studies or by mining existing repositories
 
   Chen & Jiang 2021, Fu et al. 2024
 </section>
 <section>
-  Most of them focusing on understanding the logs that kept in the production code, while none of them focusing on understanding the ephemeral log statements or, <b>Ad-Hoc Logs</b>.
+  Most of these studies focus on understanding logs that are retained in production code and used for maintenance, while none have explored the ephemeral log statements, also known as <b>Ad-Hoc Logs</b>.
 </section>
 
 ---
 
 <section>
   <div class="r-stack">
-    <h2 class="fragment fade-out" data-fragment-index="0">How can we find these logs that exists only a short time?</h2>
+    <h2 class="fragment fade-out" data-fragment-index="0">How can we identify logs that exist only temporarily?</h2>
     <h1 class="fragment r-fit" data-fragment-index="1">Through Developers' Mistakes!</p>
   </div>
 </section>
 <section>
   <div class="r-stack">
-    <p class="fragment fade-out" data-fragment-index="0">Developers often accidentally pushed the code with console.logs that used for debugging and remove them later with another commit.</p>
+    <p class="fragment fade-out" data-fragment-index="0">Developers often accidentally push code containing `console.log` statements used for debugging and later remove them in a subsequent commit.</p>
   </div>
 </section>
 
