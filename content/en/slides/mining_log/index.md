@@ -42,7 +42,7 @@ Yi-Hung Chou
 
 <section>
   <div class="r-stack">
-    <h2 class="fragment fade-out" data-fragment-index="0">How can we identify logs that exist only temporarily?</h2>
+    <h2 class="fragment fade-out" data-fragment-index="0">How can we capture logs that exist only temporarily?</h2>
     <h1 class="fragment r-fit" data-fragment-index="1">Through Developers' Mistakes!</p>
   </div>
 </section>
