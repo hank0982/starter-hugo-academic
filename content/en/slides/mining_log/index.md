@@ -25,7 +25,7 @@ Yi-Hung Chou
   <h3>What are ad-hoc logs, and why should we understand them?<h3>
 </section>
 <section>
-  Instead of consulting debuggers first, previous research has shown that developers **heavily rely on print statements when debugging</b> 
+  Instead of consulting debuggers first, previous research has shown that developers heavily rely on print statements when debugging</b> 
   
   Beller et al. 2018, Perscheid et al. 2014, and Siegmund et al. 2014
 </section>
