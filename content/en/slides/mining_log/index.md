@@ -17,7 +17,6 @@ _build:
 ---
 
 ## Understanding Ad-hoc Logs
-Yi-Hung Chou
 
 ---
 
