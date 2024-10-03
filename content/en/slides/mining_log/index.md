@@ -104,13 +104,27 @@ Mostly personal projects, small size, and with less than 10 contributors.
 
 ### Where do developers put their logs?
 
-Near half of them are put into callback or asynchronous functions, where the program flow might not be easily controlled.
-<div>
-  <img
-    src="venn-diagram.png"
-    height="400"
-  />
+
+
+<div class="r-stack">
+  <div class="fragment fade-in-then-out" data-fragment-index="0">
+    <p>Near half of them are put into callback or asynchronous functions, where the program flow might not be easily controlled.<p>
+    <img
+      src="venn-diagram.png"
+      height="400"
+    />
+  </div>
+  <div class="fragment fade-in-then-out" data-fragment-index="1">
+    <p style="font-size:30px">The differences between the location of ad-hoc logs and logs in production are obvious. Previous research showed that half of the logs in production are in exceptional flows.<p>
+    <img
+      src="./distribution_of_block_statements.png"
+      height="300"
+    />
+      <p style="font-size:30px"> <p>
+  </div>
 </div>
+
+
 
 ---
 
@@ -132,7 +146,7 @@ Near half of them are put into callback or asynchronous functions, where the pro
     />
   </div>
   <div class="fragment fade-in-then-out" data-fragment-index="2">
-    <p>Among the literals, many of them are <br/> template strings (e.g., ======) or <br/> log locators (e.g., number or here) <p>
+    <p>Among the literals, many of them are <br/> template strings (e.g., ======) or <br/> log locators (e.g., number or 'here') <p>
     <img
       class="fragment"
       data-fragment-index="2"
@@ -162,4 +176,5 @@ Near half of them are put into callback or asynchronous functions, where the pro
 
 ---
 
-# Questions?
+# Thoughts & Questions?
+
