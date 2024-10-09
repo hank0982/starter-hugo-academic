@@ -196,4 +196,15 @@ Log-it (Jiang et al.) also identified similar challenges during their interviews
 
 ---
 
+### Next step: Understanding the use of console.log through live-stream data. 
+<div>
+  <img
+    src="live-stream.png"
+    height="400"
+  />
+  <p>Iterations / Concurrency / Reasoning</p>
+</div>
+
+---
+
 # Questions & Thoughts?
