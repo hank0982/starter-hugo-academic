@@ -114,12 +114,22 @@ Mostly personal projects, small size, and with less than 10 contributors.
     />
   </div>
   <div class="fragment fade-in-then-out" data-fragment-index="1">
+    <img
+      src="code-ex1.png"
+      height="400"
+    />
+    <p style="font-size:30px"> <p>
+  </div>
+  <div class="fragment fade-in-then-out" data-fragment-index="2">
     <p style="font-size:30px">The differences between the location of ad-hoc logs and logs in production are obvious. Previous research showed that half of the logs in production are in exceptional flows.<p>
     <img
-      src="./distribution_of_block_statements.png"
-      height="300"
+      src="./distribution_of_block_statements-translate.png"
+      width="450"
     />
-      <p style="font-size:30px"> <p>
+    <img
+      src="./distribution-log-location.png"
+      width="450"
+    />
   </div>
 </div>
 
