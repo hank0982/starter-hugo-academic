@@ -16,6 +16,7 @@ sections:
     content:
       title: News
       text: >
+        - 2024/09/01 -- I will join the PEACH Lab at ETH Zürich for a research exchange from September to November 2024, working with [[Prof. April Wang](https://aprilwang.me/).
         - 2023/10/24 -- For anyone who is interested in working with me as undergraduate researcher, please check [this post](https://yihungchou.com/en/post/undergraduate-research-opportunity/) about research opportunity. Send me an email about who you are, what is your major, what motivates you to work with me. I am open to students from any major as long as you are willing to learn either programming, specifically, ReactJS and LangChain, or to learn how to conduct user study. Looking forward to your emails!
 
         - 2023/10/23 -- I am excited to share that I will join UIST as student volunteer this year. see you all at San Francisco!
