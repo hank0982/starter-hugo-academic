@@ -16,7 +16,7 @@ sections:
     content:
       title: News
       text: >
-        - 2025/01/20 -- I am happy to share that our paper: [MSR 2025] Learning from Mistakes: Understanding Ad-hoc Logs through Analyzing Accidental Commits has been accepted! See you all in Ottawa, Canada! ({{< relref "/publication/2025-msr" >}})
+        - 2025/01/20 -- I am happy to share that our paper: [MSR 2025]({{< relref "/publication/2025-msr" >}}) Learning from Mistakes: Understanding Ad-hoc Logs through Analyzing Accidental Commits has been accepted! See you all in Ottawa, Canada! 
 
         - 2024/09/01 -- I will join the PEACH Lab at ETH Zürich for a research exchange from September to November 2024, working with [Prof. April Wang](https://aprilwang.me/)!
 
