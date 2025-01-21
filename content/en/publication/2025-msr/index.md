@@ -10,6 +10,9 @@ publication_types:
   - "1"
 authors:
   - admin
+  - yiyang-min
+  - april-wang
+  - james-a-jones
 author_notes:
 publication: "22nd International Conference on Mining Software Repositories"
 summary: ""
