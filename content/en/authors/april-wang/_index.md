@@ -1,6 +1,6 @@
 ---
 title: Prof. April Yi Wang
-role: Associate Professor of Informatics, University of California, Irvine
+role: Assistant Professor at ETH Zürich
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -13,8 +13,8 @@ social:
       header: true
 
 organizations:
-  - name: University of California, Irvine
-    url: https://uci.edu/
+  - name: ETH Zürich
+    url: https://ethz.ch/en.html
 
 superuser: false
 status:
