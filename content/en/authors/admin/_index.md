@@ -6,7 +6,6 @@ bio: "Help developers to collaborate, code, and have fun!"
 interests:
   - Human-Computer Interaction
   - Software Engineering
-  - Artificial Intelligent
 social:
   - icon: orcid
     icon_pack: ai
