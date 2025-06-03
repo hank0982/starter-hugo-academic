@@ -17,9 +17,11 @@ sections:
       title: News
       text: >
 
-        - 2025/01/20 -- I am happy to share that our paper: [MSR 2025]({{< relref "/publication/2025-msr" >}}) Learning from Mistakes: Understanding Ad-hoc Logs through Analyzing Accidental Commits has been accepted! See you all in Ottawa, Canada! 
+        - 2025/06/02 -- I’m thrilled to share that I have been awarded the Taiwan Government Scholarship to Study Abroad!
 
-        - 2025/01/16 -- I am happy to share that our paper: [CHI 2025] Organize, Then Vote: Exploring Cognitive Load in Quadratic Survey Interfaces has been accepted! Huge thanks to[Ti-Chung Cheng](https://tichung.com/about/) for driving this work forward!
+        - 2025/01/20 -- Excited to announce that our paper [MSR 2025]({{< relref "/publication/2025-msr" >}}) Learning from Mistakes: Understanding Ad-hoc Logs through Analyzing Accidental Commits has been accepted! See you all in Ottawa, Canada! 
+
+        - 2025/01/16 -- Delighted to share that our paper [CHI 2025] Organize, Then Vote: Exploring Cognitive Load in Quadratic Survey Interfaces has been accepted! Huge thanks to[Ti-Chung Cheng](https://tichung.com/about/) for driving this work forward!
 
         - 2024/09/01 -- I will join the PEACH Lab at ETH Zürich for a research exchange from September to November 2024, working with [Prof. April Wang](https://aprilwang.me/)!
 
