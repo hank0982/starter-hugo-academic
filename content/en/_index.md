@@ -16,8 +16,9 @@ sections:
     content:
       title: News
       text: >
+        - 2025/12/26 -- Happy to share that our paper [FSE 2026] Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding have been accepted! See you all in Canada (AGAIN)! 
 
-        - 2025/06/02 -- I’m thrilled to share that I have been awarded the Taiwan Government Scholarship to Study Abroad!
+        - 2025/06/02 -- I’m thrilled to share that I have been awarded the Taiwan Government Scholarship to Study Abroad ($32,000)!
 
         - 2025/01/20 -- Excited to announce that our paper [MSR 2025]({{< relref "/publication/2025-msr" >}}) Learning from Mistakes: Understanding Ad-hoc Logs through Analyzing Accidental Commits has been accepted! See you all in Ottawa, Canada! 
 

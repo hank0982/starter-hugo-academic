@@ -31,7 +31,7 @@ url_pdf: "http://sundaram.cs.illinois.edu/pubs/2021/2021cheng_qv.pdf"
 publication_types:
   - "1"
 authors:
-  - Ti-Chung Cheng
+  - ti-chung
   - Tiffany Wenting Li
   - admin
   - Prof. Karrie Karahalios
