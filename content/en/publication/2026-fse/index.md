@@ -15,21 +15,15 @@ authors:
   - james-a-jones
 author_notes:
 
-publication: Proc. ACM Softw. Eng. 3, FSE, Article FSE077, July 2026
-summary: ""
-url_dataset: ""
-url_project: ""
 publication_short: FSE 2026
-doi: 10.1145/3797105
+publication: Proc. ACM Softw. Eng. 3, FSE, Article FSE077, July 2026
 featured: false
 tags:
-  - Vibe Coding
-  - AI-assisted Software Engineering
+  - Future of Work
   - Empirical Study
 categories:
   - Software Engineering
   - HCI
-  - Artificial Intelligence
 projects: 
   - future-of-work
 # image:
@@ -37,9 +31,10 @@ projects:
 #   focal_point: ""
 #   preview_only: false
 date: 2026-07-01T00:00:00Z
+doi: 10.1145/3797105
 url_slides: ""
 publishDate: 2026-07-01T00:00:00Z
 url_poster: ""
-# url_code: ""
+# url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 Check the paper at [ACM Digital Library](https://doi.org/10.1145/3797105), [arXiv](https://arxiv.org/abs/2512.22418), or [ResearchGate](https://www.researchgate.net/publication/399166870_Building_Software_by_Rolling_the_Dice_A_Qualitative_Study_of_Vibe_Coding)
