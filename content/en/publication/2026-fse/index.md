@@ -31,10 +31,10 @@ projects:
 #   caption: ""
 #   focal_point: ""
 #   preview_only: false
-date: 2026-07-01T00:00:00Z
+date: 2026-04-26T00:00:00Z
 doi: 10.1145/3797105
 url_slides: ""
-publishDate: 2026-07-01T00:00:00Z
+publishDate: 2026-04-26T00:00:00Z
 url_poster: ""
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
