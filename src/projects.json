@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Convergence or divergence in open source",
+    "lens": "understand",
+    "recruiting": true,
+    "summary": "We are investigating whether AI agents lead open-source projects toward similar library choices or encourage a more diverse ecosystem, using repository mining and static analysis.",
+    "skills": "Mining software repositories \u00b7 Static analysis",
+    "status": "Active project"
+  },
+  {
+    "title": "Tracing calls to understand what developers test",
+    "lens": "understand",
+    "recruiting": false,
+    "summary": "Exploring how LLM-assisted call tracing can help us understand what developers test: connecting test code with the software behavior it exercises.",
+    "status": "Under review"
+  },
+  {
+    "title": "Professional software workers with coding agents",
+    "lens": "with",
+    "recruiting": true,
+    "summary": "We are studying how, why, and when professionals outside traditional developer roles use coding agents at work, and how they collaborate with developers on their teams.",
+    "skills": "Interviews \u00b7 Surveys \u00b7 Qualitative analysis",
+    "status": "Active project"
+  },
+  {
+    "title": "Managing AI agents: a workspace shadowing study",
+    "lens": "with",
+    "recruiting": false,
+    "summary": "A workspace shadowing study of the interleaving nature of working with AI agents: how software creators switch between tasks and agents, and the challenges and opportunities of managing a swarm of AI agents.",
+    "status": "Under review"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "2026-fse",
+    "title": "Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding",
+    "abstract": "Large language models (LLMs) are reshaping software engineering by enabling vibe coding, building software primarily through prompts rather than writing code.  Although widely publicized as a productivity breakthrough, little is known about how practitioners actually define and engage in these practices. To shed some light on this emerging phenomenon, we conducted a grounded theory study of 20 vibe-coding videos, including 7 live-streamed coding sessions (approximately 16 hours, 254 prompts) and 13 opinion videos (approximately 5 hours), supported by additional analysis of activity durations and intents of prompts. Our findings reveal a spectrum of behaviors: some vibe coders rely almost entirely on AI without inspecting code, while others examine and adapt generated outputs.  Across approaches, all must contend with the stochastic nature of generation, with debugging and refinement described as \u201crolling the dice.\u201d Further, divergent mental models, shaped by vibe coders\u2019 expertise and reliance on AI, influence prompting strategies, evaluation practices, and levels of trust. Through additional quantitative analysis, vibe coders spend over 20% of session time on average waiting for model responses, with some sessions exceeding 50%. We also observe prompt redundancy: for some participants, nearly 40% of prompts repeat prior intents. These findings open new directions for research on the future of software engineering and point to practical opportunities for tool design and education.",
+    "venue": "Proc. ACM Softw. Eng. 3, FSE, Article FSE077, July 2026",
+    "year": "2026",
+    "url": "https://doi.org/10.1145/3797105",
+    "doi": "10.1145/3797105",
+    "authors": [
+      "Yi-Hung Chou",
+      "Boyuan Jiang",
+      "Yiwen Chen",
+      "Mingyue Weng",
+      "Victoria Jackson",
+      "Thomas Zimmermann",
+      "James A. Jones"
+    ],
+    "pdf": "/papers/2026-fse.pdf",
+    "pdfVersion": "Author preprint (arXiv)",
+    "award": "ACM SIGSOFT Distinguished Paper Award",
+    "awardDetail": "Selected as one of 10 distinguished papers among 211 accepted FSE 2026 research papers.",
+    "awardUrl": "https://www.sigsoft.org/awards/distinguishedPaperAward.html"
+  },
+  {
+    "slug": "2025-msr",
+    "title": "Learning from Mistakes: Understanding Ad-hoc Logs through Analyzing Accidental Commits",
+    "abstract": "Developers often insert temporary \"print\" or \"log\" instructions into their code to help them better understand runtime behavior, usually when the code is not behaving as they expected. Despite the fact that such monitoring instructions, or \"ad-hoc logs,\" are so commonly used by developers, there is almost no existing literature that studies developers' practices in how they use them. This paucity of knowledge of the use of these ephemeral logs may be largely due to the fact that they typically only exist in the developers' local environments and are removed before they commit their code to their revision control system. In this work, we overcome this challenge by observing that developers occasionally mistakenly forget to remove such instructions before committing, and then they remove them shortly later. Additionally, we further study such developer logging practices by watching and analyzing live-streamed coding videos. Through these empirical approaches, we study where, how, and why developers use ad-hoc logs to better understand their code and its execution. We collect 27 GB of accidental commits that removed 548,880 ad-hoc logs in JavaScript from GitHub Archive repositories to provide the first large-scale dataset and empirical studies on ad-hoc logging practices. Our results reveal several illuminating findings, including a particular propensity for developers to use ad-hoc logs in asynchronous and callback functions. Our findings provide both empirical evidence and a valuable dataset for researchers and tool developers seeking to enhance ad-hoc logging practices, and potentially deepen our understanding of developers' practices towards understanding of software's runtime behaviors.",
+    "venue": "22nd International Conference on Mining Software Repositories",
+    "year": "2025",
+    "url": "https://arxiv.org/pdf/2501.09892",
+    "doi": null,
+    "authors": [
+      "Yi-Hung Chou",
+      "Yiyang Min",
+      "Prof. April Yi Wang",
+      "Prof. James A. Jones"
+    ],
+    "pdf": "/papers/2025-msr.pdf",
+    "pdfVersion": "Author preprint (arXiv)"
+  },
+  {
+    "slug": "2023hicss",
+    "title": "Adapting Software Teams to the New Normal: An Early Case Study of Transitioning to Hybrid Work Under COVID-19",
+    "abstract": "In the wake of the COVID-19 pandemic, many studies have begun to address what some refer to as the\" new normal,\" comprising hybrid arrangements of employees working from home and working at the office with varying schedule arrangements. While many of the studies to date addressed how employees coped with work-from-home, we sought to investigate how employees dealt with a transition to the new normal of hybrid arrangements. To shed light on this topic, we conducted a survey-based case study at one office location of a large, multinational software corporation. The site sought to transition employees fully working from home to working two days remotely and three predefined days in their shared workspace. Our survey results indicated a substantial decline in work satisfaction since the beginning of this transition, which can be explained by diverse work preferences. Furthermore, some software developers felt frustrated during this transition time; they described challenges they underwent and proposed potential solutions. In this paper, we present our lessons learned in this case study and describe some actionable recommendations for practitioners facing such transitions.",
+    "venue": "Proceedings of the 56th Hawaii International Conference on System Sciences",
+    "year": "2023",
+    "url": "https://www.researchgate.net/profile/Zhendong-Wang-10/publication/363855398_Adapting_Software_Teams_to_the_New_Normal_An_Early_Case_Study_of_Transitioning_to_Hybrid_Work_Under_COVID-19/links/63b643f9097c7832ca8f23eb/Adapting-Software-Teams-to-the-New-Normal-An-Early-Case-Study-of-Transitioning-to-Hybrid-Work-Under-COVID-19.pdf",
+    "doi": null,
+    "authors": [
+      "Yi-Hung Chou",
+      "Dr. Zhendong Wang",
+      "Prof. Tobias Schimmer",
+      "Prof. Rafael Prikladnicki",
+      "Prof. David Redmiles"
+    ],
+    "pdf": "/papers/2023hicss.pdf",
+    "pdfVersion": "Publicly available paper PDF"
+  },
+  {
+    "slug": "ieee-software-2023",
+    "title": "Co-Designing for a Hybrid Workplace Experience in Software Development",
+    "abstract": "To achieve productive engineering practice, collaborative product innovation, and effective mentorship in hybrid work, we introduce a workshop approach on co-designing for a hybrid workplace experience and provide recommendations for continuously improving collaborative software development at scale.",
+    "venue": "IEEE Software, Volume 40, Issue 2, March-April 2023",
+    "year": "2022",
+    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994043",
+    "doi": "10.1109/MS.2022.3229894",
+    "authors": [
+      "Dr. Zhendong Wang",
+      "Yi-Hung Chou",
+      "Kayla Fathi",
+      "Prof. Tobias Schimmer",
+      "Peter Colligan",
+      "Prof. David Redmiles",
+      "Prof. Rafael Prikladnicki"
+    ],
+    "pdf": "/papers/ieee-software-2023.pdf",
+    "pdfVersion": "Author preprint (arXiv)"
+  },
+  {
+    "slug": "quadratic-voting",
+    "title": "\" I can show what I really like.\" Eliciting Preferences via Quadratic Voting",
+    "abstract": "Surveys are a common instrument to gauge self-reported opinions from the crowd for scholars in the CSCW community, the social sciences, and many other research areas. Researchers often use surveys to prioritize a subset of given options when there are resource constraints. Over the past century, researchers have developed a wide range of surveying techniques, including one of the most popular instruments, the Likert ordinal scale, to elicit individual preferences. However, the challenge to elicit accurate and rich self-reported responses with surveys in a resource-constrained context still persists today. In this study, we examine Quadratic Voting (QV), a voting mechanism powered by the affordances of a modern computer and straddles ratings and rankings approaches, as an alternative online survey technique. We argue that QV could elicit more accurate self-reported responses compared to the Likert scale when the goal is to understand relative preferences under resource constraints. We conducted two randomized controlled experiments on Amazon Mechanical Turk, one in the context of public opinion polling and the other in a human-computer interaction user study. Based on our Bayesian analysis results, a QV survey with a sufficient amount of voice credits, aligned significantly closer to participants' incentive-compatible behaviors than a Likert scale survey, with a medium to high effect size. In addition, we extended QV's application scenario from typical public policy and education research to a problem setting familiar to the CSCW community: a prototypical HCI user study. Our experiment results, QV survey design, and QV interface serve as a stepping stone for CSCW researchers to further explore this surveying methodology in their studies and encourage decision-makers from other communities to consider QV as a promising alternative.",
+    "venue": "Proceedings of the ACM on Human-Computer Interaction Volume 5 Issue CSCW1",
+    "year": "2021",
+    "url": "http://sundaram.cs.illinois.edu/pubs/2021/2021cheng_qv.pdf",
+    "doi": "10.1145/3449281",
+    "authors": [
+      "Ti-Chung Cheng",
+      "Tiffany Wenting Li",
+      "Yi-Hung Chou",
+      "Prof. Karrie Karahalios",
+      "Prof. Hari Sundaram"
+    ],
+    "pdf": "/papers/quadratic-voting.pdf",
+    "pdfVersion": "Publicly available paper PDF"
+  },
+  {
+    "slug": "2026-emse",
+    "title": "Following Breadcrumbs in Code: What Accidentally Committed Ad-Hoc Logs Reveal about Developer Comprehension",
+    "abstract": "Developers frequently insert temporary print or log statements, known as ad-hoc logs, to better understand program behavior at runtime. This work mines accidental commits and analyzes live-streamed programming sessions to study these ephemeral practices across Java, JavaScript, and Python. The analysis reveals shared and language-specific patterns, including asynchronous and callback functions in JavaScript and thread-related classes in Java. Functions containing ad-hoc logs generally have higher cyclomatic complexity, with production logs showing a similar association. These findings provide insight into runtime comprehension and a dataset for researchers and tool builders.",
+    "venue": "Empirical Software Engineering (EMSE) ,  Accepted",
+    "year": "2026",
+    "url": "https://arxiv.org/abs/2610.11041",
+    "doi": null,
+    "authors": [
+      "Yi-Hung Chou",
+      "Boyuan Jiang",
+      "Vidit Jain",
+      "Yiyang Min",
+      "April Yi Wang",
+      "James A. Jones"
+    ],
+    "pdf": "/papers/2026-emse.pdf",
+    "pdfVersion": "Author preprint (arXiv)"
+  }
+]

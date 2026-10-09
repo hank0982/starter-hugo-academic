@@ -1,0 +1,61 @@
+[
+  {
+    "date": "2026",
+    "text": "[Building Software by Rolling the Dice](/research/2026-fse/) was selected for an ACM SIGSOFT Distinguished Paper Award at FSE 2026. It is one of 10 distinguished papers among 211 accepted research papers.",
+    "publicationUrl": "/research/2026-fse/"
+  },
+  {
+    "date": "2026-10",
+    "text": "Our follow-up to Learning from Mistakes, [Following Breadcrumbs in Code](/research/2026-emse/), has been accepted to Empirical Software Engineering (EMSE)! It extends our study of ad-hoc logs to Java, JavaScript, and Python.",
+    "publicationUrl": "/research/2026-emse/"
+  },
+  {
+    "date": "2025-12-26",
+    "text": "Happy to share that our paper [FSE 2026](/research/2026-fse/) Building Software by Rolling the Dice: A Qualitative Study of Vibe Coding have been accepted! See you all in Canada (AGAIN)!",
+    "publicationUrl": "/research/2026-fse/"
+  },
+  {
+    "date": "2025-06-02",
+    "text": "I\u2019m thrilled to share that I have been awarded the Taiwan Government Scholarship to Study Abroad ($32,000)!"
+  },
+  {
+    "date": "2025-01-20",
+    "text": "Excited to announce that our paper [MSR 2025](/research/2025-msr/) Learning from Mistakes: Understanding Ad-hoc Logs through Analyzing Accidental Commits has been accepted! See you all in Ottawa, Canada!",
+    "publicationUrl": "/research/2025-msr/"
+  },
+  {
+    "date": "2025-01-16",
+    "text": "Delighted to share that our paper [Organize, Then Vote: Exploring Cognitive Load in Quadratic Survey Interfaces](https://doi.org/10.1145/3706598.3714193) (CHI 2025) has been accepted! Huge thanks to [Ti-Chung Cheng](https://tichung.com/about/) for driving this work forward!",
+    "publicationUrl": "https://doi.org/10.1145/3706598.3714193"
+  },
+  {
+    "date": "2024-09-01",
+    "text": "I will join the PEACH Lab at ETH Z\u00fcrich for a research exchange from September to November 2024, working with [Prof. April Wang](https://aprilwang.me/)!"
+  },
+  {
+    "date": "2023-10-24",
+    "text": "Interested in undergraduate research? Please see the [research opportunity page](/opportunities/) for current projects and relevant skills. Students from any major are welcome to get in touch. Email me with a short introduction, your interests, and what motivates you to work together. Looking forward to your emails!"
+  },
+  {
+    "date": "2023-10-23",
+    "text": "I am excited to share that I will join UIST as student volunteer this year. see you all at San Francisco!"
+  },
+  {
+    "date": "2023-06-26",
+    "text": "I am excited to share that I will be interning with the SAP, Newport Beach this summer with Prof. Tobias Schimmer!"
+  },
+  {
+    "date": "2023-06-23",
+    "text": "Update my personal website"
+  },
+  {
+    "date": "2023-06-17",
+    "text": "Congrats! Zhendong is officially Dr. Zhendong Wang!"
+  },
+  {
+    "date": "2023-01-06",
+    "text": "Enjoy Maui! at [HICSS](https://hicss.hawaii.edu/)",
+    "publicationUrl": "/research/2023hicss/",
+    "publicationLinkLabel": "Related HICSS paper \u2197"
+  }
+]

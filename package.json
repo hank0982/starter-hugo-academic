@@ -1,0 +1,22 @@
+{
+  "name": "yihung-research",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build && vite build --ssr src/prerender.jsx --outDir .ssr && node .ssr/prerender.js",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

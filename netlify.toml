@@ -1,21 +1,36 @@
 [build]
-  command = "hugo --gc --minify -b $URL"
-  publish = "public"
+  command = "npm run build"
+  publish = "dist"
 
 [build.environment]
-  HUGO_VERSION = "0.111.3"
-  HUGO_ENABLEGITINFO = "true"
+  NODE_VERSION = "22"
 
-[context.production.environment]
-  HUGO_ENV = "production"
+[[redirects]]
+  from = "/en/"
+  to = "/"
+  status = 301
 
-[context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+[[redirects]]
+  from = "/en/publication/:slug/"
+  to = "/research/:slug/"
+  status = 301
 
-[context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+[[redirects]]
+  from = "/en/post/undergraduate-research-opportunity/"
+  to = "/opportunities/"
+  status = 301
 
-[[plugins]]
-  package = "netlify-plugin-hugo-cache-resources"
-  [plugins.inputs]
-    debug = true
+[[redirects]]
+  from = "/en/project/reading-list/"
+  to = "/reading-list/"
+  status = 301
+
+[[redirects]]
+  from = "/en/publication/"
+  to = "/#publications"
+  status = 301
+
+[[redirects]]
+  from = "/en/post/"
+  to = "/posts/"
+  status = 301
