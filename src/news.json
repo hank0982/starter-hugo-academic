@@ -1,13 +1,13 @@
 [
   {
-    "date": "2026",
-    "text": "[Building Software by Rolling the Dice](/research/2026-fse/) was selected for an ACM SIGSOFT Distinguished Paper Award at FSE 2026. It is one of 10 distinguished papers among 211 accepted research papers.",
-    "publicationUrl": "/research/2026-fse/"
-  },
-  {
     "date": "2026-10",
     "text": "Our follow-up to Learning from Mistakes, [Following Breadcrumbs in Code](/research/2026-emse/), has been accepted to Empirical Software Engineering (EMSE)! It extends our study of ad-hoc logs to Java, JavaScript, and Python.",
     "publicationUrl": "/research/2026-emse/"
+  },
+  {
+    "date": "2026-07",
+    "text": "[Building Software by Rolling the Dice](/research/2026-fse/) was selected for an ACM SIGSOFT Distinguished Paper Award at FSE 2026. It is one of 10 distinguished papers among 211 accepted research papers.",
+    "publicationUrl": "/research/2026-fse/"
   },
   {
     "date": "2025-12-26",
@@ -16,7 +16,7 @@
   },
   {
     "date": "2025-06-02",
-    "text": "I\u2019m thrilled to share that I have been awarded the Taiwan Government Scholarship to Study Abroad ($32,000)!"
+    "text": "I’m thrilled to share that I have been awarded the Taiwan Government Scholarship to Study Abroad ($32,000)!"
   },
   {
     "date": "2025-01-20",
@@ -30,7 +30,7 @@
   },
   {
     "date": "2024-09-01",
-    "text": "I will join the PEACH Lab at ETH Z\u00fcrich for a research exchange from September to November 2024, working with [Prof. April Wang](https://aprilwang.me/)!"
+    "text": "I will join the PEACH Lab at ETH Zürich for a research exchange from September to November 2024, working with [Prof. April Wang](https://aprilwang.me/)!"
   },
   {
     "date": "2023-10-24",
@@ -52,6 +52,6 @@
     "date": "2023-01-06",
     "text": "Enjoy Maui! at [HICSS](https://hicss.hawaii.edu/)",
     "publicationUrl": "/research/2023hicss/",
-    "publicationLinkLabel": "Related HICSS paper \u2197"
+    "publicationLinkLabel": "Related HICSS paper ↗"
   }
 ]
