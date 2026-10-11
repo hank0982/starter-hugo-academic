@@ -1,0 +1,5 @@
+import React from 'react';
+import TraceVisual from './TraceVisual.jsx';
+import DiceVisual from './DiceVisual.jsx';
+import SwarmVisual from './SwarmVisual.jsx';
+export default function ResearchCard({w}){return <article className="work">{w.visualType==='dice'?<div className="dice-preview"><DiceVisual/><span className="prompt">{w.visualLabel}</span></div>:<a className={'work-art research-art '+(w.lens==='understand'?'art0':'art1')} href={w.url} aria-label={'Explore '+w.title}>{['breadcrumbs','deleted-logs'].includes(w.visualType)?<TraceVisual type={w.visualType}/>:w.visualType==='swarm'?<SwarmVisual/>:<span className="research-icon" aria-hidden="true">{w.icon}</span>}<span className="prompt">{w.visualLabel}</span></a>}<div className="work-meta">{w.venue||'Research project'}<span className={'research-tag tag-'+w.lens}>{w.status}</span></div><h3><a href={w.url}>{w.short||w.title} <span>↗︎</span></a></h3>{w.award&&<p className="award-badge">✦ {w.award}</p>}<p>{w.desc||w.summary}</p>{w.recruiting&&<a className="text-link" href="/opportunities/">Join this project ↗︎</a>}</article>}

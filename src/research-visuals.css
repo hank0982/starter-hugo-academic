@@ -1,0 +1,36 @@
+.dice-story{width:100%}
+.dice-scene{height:245px;position:relative;perspective:650px;overflow:hidden}
+.dice-cube{position:absolute;left:calc(50% - 45px);top:75px;width:90px;height:90px;transform-style:preserve-3d;transform:rotateX(0deg) rotateY(0deg);animation:dice-tumble 6s linear both}
+.dice-face{position:absolute;inset:0;background:#fff9ed;border:2px solid #96734e;border-radius:12px;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);padding:13px;gap:7px;backface-visibility:hidden;box-shadow:inset 0 0 14px #b7987640}
+.pip{background:#563c24;border-radius:50%;box-shadow:inset 1px 2px 2px #25150980}
+.face-front{transform:translateZ(45px)}
+.face-back{transform:rotateY(180deg) translateZ(45px)}
+.face-right{transform:rotateY(90deg) translateZ(45px);background:#e5cfb3}
+.face-left{transform:rotateY(-90deg) translateZ(45px);background:#e5cfb3}
+.face-top{transform:rotateX(90deg) translateZ(45px);background:#fffdf7}
+.face-bottom{transform:rotateX(-90deg) translateZ(45px)}
+.dice-shadow{position:absolute;left:calc(50% - 67px);top:191px;width:134px;height:18px;border-radius:50%;background:#73543330;filter:blur(6px)}
+.dice-sparkles{position:absolute;left:50%;top:120px;opacity:0;animation:dice-sparkle 1s 5.4s forwards;color:#936513}
+.sparkle{position:absolute;width:24px;height:24px}
+.sparkle-0{left:-110px;top:-68px}.sparkle-1{left:85px;top:-58px;width:32px;height:32px}.sparkle-2{left:-100px;top:45px}.sparkle-3{left:88px;top:43px}.sparkle-4{left:-15px;top:-104px;width:17px;height:17px}.sparkle-5{left:43px;top:85px;width:17px;height:17px}
+.dice-controls{display:flex;justify-content:center;gap:16px;margin:5px 0 12px}
+.dice-controls button{font:inherit;font-size:14px;min-height:44px;padding:8px 12px;border:1px solid currentColor;border-radius:5px;background:transparent;color:#4b3f28;cursor:pointer}
+.is-paused *{animation-play-state:paused!important}
+.dice-preview{background:#efe4d8;border-radius:6px;overflow:hidden}
+.dice-preview .prompt{display:block;text-align:center;padding:0 8px 15px;color:#61492f;font:13px monospace}
+@keyframes dice-tumble{0%,10%{transform:rotateX(0deg) rotateY(90deg)}20%{transform:translateY(-30px) rotateX(180deg) rotateY(315deg)}30%,40%{transform:rotateX(360deg) rotateY(540deg)}50%{transform:translateY(-30px) rotateX(540deg) rotateY(675deg)}60%,70%{transform:rotateX(720deg) rotateY(810deg)}80%{transform:translateY(-30px) rotateX(900deg) rotateY(945deg)}90%,100%{transform:rotateX(1080deg) rotateY(1080deg)}}
+@keyframes dice-sparkle{0%{opacity:0;transform:scale(.5)}50%{opacity:1;transform:scale(1.15)}100%{opacity:1;transform:scale(1)}}
+@media(prefers-reduced-motion:reduce){.dice-cube{animation:none}.dice-sparkles{animation:none;opacity:1}.dice-controls{display:none}}
+
+.dice-fix{position:absolute;left:calc(50% - 200px);top:105px;padding:7px 13px;border:1px solid #846743;background:#fff9ed;color:#563c24;border-radius:7px;font:600 16px monospace;opacity:0;animation:dice-prompt-impact 1s linear both}.dice-fix-1{animation-delay:1.8s;top:75px}.dice-fix-2{animation-delay:3.6s;top:135px}@keyframes dice-prompt-impact{0%{opacity:0;transform:translate(-25px,0) rotate(-8deg)}10%{opacity:1}60%{opacity:1;transform:translate(155px,0) rotate(3deg)}65%,100%{opacity:0;transform:translate(180px,0) scale(.65)}}
+@media(prefers-reduced-motion:reduce){.dice-prompts{display:none}}
+
+/* Keep every paper illustration in the same card-sized frame. */
+.work-grid .research-art,.work-grid .dice-preview{height:235px;min-height:235px;width:100%}
+.dice-preview{display:flex;flex-direction:column;justify-content:center}
+.dice-scene{height:150px}
+.dice-world{position:absolute;inset:0;height:245px;transform:scale(.72);transform-origin:50% 0;perspective:650px}
+.dice-controls{margin:0 0 5px;gap:12px}
+.dice-preview .prompt{padding-bottom:8px}
+.work-grid .trace-visual{max-height:185px;object-fit:contain}
+.work-grid .work{height:100%}

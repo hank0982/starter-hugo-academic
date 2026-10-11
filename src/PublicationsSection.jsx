@@ -1,0 +1,4 @@
+import React from 'react';
+import {papers} from './research-data.js';
+
+export default function PublicationsSection({}){return <section id="publications"><div className="row-heading"><div><p className="eyebrow">03 / PUBLICATIONS</p><h2>Ideas, <span className="serif">in print.</span></h2></div><a className="text-link" href="https://scholar.google.com/citations?user=pOtvIJwAAAAJ">Google Scholar ↗︎</a></div><div className="pub-list">{papers.map(p=><article className="publication" key={p.title}><span className="pub-year">{p.year}</span><div><span className={'venue publication-tag tag-'+(p.title.includes('Rolling the Dice')?'with':p.title.includes('Hybrid')?'collaboration':'understand')}>{p.venue}</span><h3><a href={p.url}>{p.title}</a></h3>{p.award&&<p className="award-badge">✦ {p.award}</p>}</div><a className="paper-link" href={p.url} aria-label={'Read '+p.title}>Read <span>↗︎</span></a></article>)}</div></section>}
